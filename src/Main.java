@@ -1,7 +1,7 @@
 //java -cp ".;..\mysql-connector-j-9.7.0.jar" Main
 import java.util.Scanner;
 
-public class Main {2
+public class Main {
 
     public static void main(String[] args) {
 
